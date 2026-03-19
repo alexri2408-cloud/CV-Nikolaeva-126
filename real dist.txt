@@ -1,0 +1,3 @@
+X: real 9.0 vs calc 6.0
+Y: real 11.0 vs calc 17.5
+Z: real 39.5 vs calc 41.0
